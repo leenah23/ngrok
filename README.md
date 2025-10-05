@@ -10,7 +10,7 @@ This repository uses GitHub Actions to automatically create a remote desktop con
 <h2 align="left">👤 Repo Visitors:</h2>
 <p align="left">
 <a href="https://rojansapkota.com.np" target="_blank">
-<img src="https://profile-counter.glitch.me/RojanSapkota_Remote-Desktop-Connection/count.svg" alt="Visitor Counter"/>
+<img src="https://profile-counter.deno.dev/RojanSapkota_Remote-Desktop-Connection/count.svg" alt="Visitor Counter"/>
 </a>
 </p>
 
